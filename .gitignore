@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#Spotify
+.cache-manjogsingh+sp4
